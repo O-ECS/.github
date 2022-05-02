@@ -4,7 +4,7 @@ OECSS (Open Early Childhood Short Screening) ist ein R-Package mit welchem mitte
 
 Das Instrument ist für die Anwendung im deutschsprachigen Raum konzipiert und wurde ausgehend von Anforderungen der Praxis entwickelt.  
   
-**Englisch**  
+**English**  
 *OECSS (Open Early Childhood Short Screening) is an R package  (which using R and LimeSurvey) for a short screening of the need for support before entering kindergarten can be set up and evaluated automatically. Personal data are only stored locally and are not transferred to the LimeSurvey survey software.*  
 
 *The instrument is designed for use in German-speaking countries and was developed based on practical requirements.*
