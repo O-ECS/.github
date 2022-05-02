@@ -1,4 +1,5 @@
 # Open Early Childhood Short Sreening
+## About
 OECSS (Open Early Childhood Short Sreening) ist ein R-Package mit welchem mittels R und LimeSurvey automatisiert ein Kurz-Screening zum Förderbedarf vor Kindergarteneintritt aufgesetzt und ausgewertet werden kann. Die Personendaten bleiben dabei ausschliesslich lokal gespeichert und werden nicht an die Umfragesoftware LimeSurvey übertragen. Damit entspricht dieses Instrument den datenschutzrechtlichen Anforderungen.
 
 Das Instrument ist für die Anwendung im deutschsprachigen Raum konzipiert und wurde ausgehend von Anforderungen der Praxis entwickelt.
